@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I am from New Zealand and worked as a Web Developer/Manager for over 9 years in New Zealand and Australia!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/krystlemagadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krystlemagadia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/krystleta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krystleta" height="30" width="40" /></a>
 <a href="https://instagram.com/kmt.tech1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kmt.tech1" height="30" width="40" /></a>
 </p>
 
