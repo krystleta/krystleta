@@ -3,7 +3,7 @@
 - 🌱 I just graduated from the Software Engineering Bootcamp with TripleTen in August 2024!
 - 💬 Ask me about my first PC build!
 - 📫 How to reach me: @kmt.tech1 on Instagram
-- ⚡ Fun fact: I was a Web Developer/Manager for 9 years then took an 8-year break and now looking to get back into tech!
+- ⚡ Fun fact: I am from New Zealand and worked as a Web Developer/Manager for over 9 years in New Zealand and Australia!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krystlemagadia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krystlemagadia" height="30" width="40" /></a>
