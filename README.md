@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🌱 I just graduated from the Software Engineering Bootcamp with TripleTen in August 2024!
+- 🌱 I am from New Zealand and worked as a Web Developer/Manager for over 9 years in New Zealand and Australia now based in sunny California!
 - 💬 Ask me about my first PC build!
 - 📫 How to reach me: @kmt.tech1 on Instagram
-- ⚡ Fun fact: I am from New Zealand and worked as a Web Developer/Manager for over 9 years in New Zealand and Australia!
+- ⚡ Fun fact: I opened a restaurant in 2023 while raising three boys!
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/krystleta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krystleta" height="30" width="40" /></a>
