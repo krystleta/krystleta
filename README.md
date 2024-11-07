@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I am from New Zealand and worked as a Web Developer/Manager for over 9 years in New Zealand and Australia now based in sunny California!
+- 🌱 I am from New Zealand and worked as a Web Developer/Manager for over ten years in New Zealand and Australia now based in sunny California!
 - 💬 Ask me about my first PC build!
 - 📫 How to reach me: @kmt.tech1 on Instagram
 - ⚡ Fun fact: I opened a restaurant in 2023 while raising three boys!
